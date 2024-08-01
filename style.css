@@ -1,0 +1,15 @@
+.style1 {
+  border-style: dashed;
+  border-color: black;
+}
+.style2 {
+  border-style: dashed;
+  border-color: black;
+}
+tr {
+  text-align: left;
+}
+
+.head1 {
+  font-size: 18px;
+}
